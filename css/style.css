@@ -26,7 +26,7 @@ header {
 
 header nav a {
   color: #eee;
-  font-size: small;
+  font-size: 1.6em;
   margin: 0 30px;
 }
 .tab {
@@ -86,10 +86,12 @@ header nav a {
 
 #intro .content .des {
   margin-top: 1.2em;
+  font-size: 1.4em;
 }
 
 #intro .content a {
   margin-top: 1.2em;
+  font-size: 1.8em;
 }
 #intro .content i {
   font-size: 10em;
